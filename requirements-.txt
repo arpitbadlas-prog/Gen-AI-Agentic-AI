@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+pydantic
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+faiss-cpu
+pypdf
+ipykernel
+streamlit
+joblib
